@@ -4,3 +4,4 @@ base 1 test
 ...
 base 2 test
 base 3 test
+base 4 test
