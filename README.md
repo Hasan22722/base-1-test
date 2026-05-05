@@ -8,3 +8,4 @@ base 4 test
 base 5 test
 base 6 test
 base 7 test
+base 8 test
