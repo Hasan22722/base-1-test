@@ -34,3 +34,4 @@ base 32 test
 base 33 test
 base 34 test
 base 35 test
+base 36 test
