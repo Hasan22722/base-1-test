@@ -11,3 +11,4 @@ base 9 test
 base 10 test
 base 11 test
 base 12 test
+base 13 test
