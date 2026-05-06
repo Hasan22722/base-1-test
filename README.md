@@ -98,3 +98,4 @@ base 96 test
 base 97 test
 base 98 test
 base 99 test
+base 100 test
