@@ -65,3 +65,4 @@ base 63 test
 base 64 test
 base 65 test
 base 66 test
+base 67 test
